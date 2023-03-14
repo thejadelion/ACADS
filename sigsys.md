@@ -37,8 +37,8 @@ energy is infinite, and when the energy is finite, the average power is zero. Fo
 
 ### Transformation of independent variables
 
-Consider the transformation x(t) -> x($\alpha$t + $\beta$). Consider the case where $\alpha$ is 1. If beta is positive, we call it *time advancement* and if beta is negative,
-we call it *time delay*. 
+Consider the transformation x(t) -> x($\alpha$t + $\beta$). Consider the case where $\alpha$ is 1. If beta is positive, we call it *time advancement* and if beta is negative, we call it *time delay*. Now, consider the case where $\alpha$ is negative. If we take alpha to be -1, we get the signal to be *reflected* about the y axis. 
+Now, consider the case where $\alpha$ < 1. This corresponds to *stretching* the signal. If $\alpha$ > 1. This corresponds to *compressing* the signal. Example is fast-fowarding a video.  
 
 
 
